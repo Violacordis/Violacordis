@@ -9,7 +9,7 @@ I have a Youtube channel called [Learn tech with Ada](https://youtube.com/channe
 **Here's a quick summary about me**:
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm good with Maths. 
-- 🌱 I’m currently learning backend engineering (Node.js) at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and react.js at [Frontend learning group for women](flgw.org) bootcamp.
+- 🌱 I studied backend engineering (Node.js) at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing ikemviolacordis@gmail.com.
