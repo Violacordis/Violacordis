@@ -4,14 +4,11 @@
 
 I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, web and backend engineering, accumulating Value, advocacy...
 
-I have a Youtube channel called [Learn tech with Ada](https://youtube.com/channel/UCruTFCsSEvoXH9BkIQp4kIA) where i share my knowlegde on tech.
-
 **Here's a quick summary about me**:
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm good with Maths. 
-- 🌱 I studied backend engineering (Node.js) at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer (Intern or Junior level).
+- 💡 Fun fact: I'm good with Maths ad i teach kids scratch, roblox and python. 
+- 🌱 I studied backend engineering (Node.js) at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
+- 💼 Job interests: Backend Developer.
 - 📫 You can [view my resume](#) and contact me by emailing ikemviolacordis@gmail.com.
 ---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Violacordis&show_icons=true&include_all_commits=true&hide_border=true" alt="Ada's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Violacordis&langs_count=8&layout=compact&hide_border=true" alt="Ada's GitHub stats" /> |
