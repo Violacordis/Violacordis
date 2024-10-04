@@ -6,7 +6,7 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 
 **Here's a quick summary about me**:
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm good with Maths ad i teach kids scratch, roblox and python. 
+- 💡 Fun fact: I'm good with Maths and teach kids Scratch, Roblox, and Python. 
 - 🌱 I studied backend engineering (Node.js) at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
 - 💼 Job interests: Backend Developer.
 - 📫 You can [view my resume](#) and contact me by emailing ikemviolacordis@gmail.com.
