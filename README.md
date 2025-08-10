@@ -9,7 +9,7 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 - 💡 Fun fact: I'm good with Maths and teach kids Scratch, Roblox, and Python. 
 - 🌱 I studied backend engineering (Node.js) at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
 - 💼 Job interests: Backend Developer.
-- 📫 You can [view my resume](#) and contact me by emailing ikemviolacordis@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/19Ap95KnynaaJeu6XKJ48bx5RyPtqnWg3/view?usp=sharing) and contact me by emailing ikemviolacordis@gmail.com.
 ---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Violacordis&show_icons=true&include_all_commits=true&hide_border=true" alt="Ada's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Violacordis&langs_count=8&layout=compact&hide_border=true" alt="Ada's GitHub stats" /> |
 | ------------- | ------------- |
